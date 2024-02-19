@@ -1,2 +1,2 @@
 # frontend-Projects
-This is a Frontend Projects.
+This is a Frontend Project.
